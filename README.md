@@ -1,6 +1,5 @@
-## Boas-vindas ao Github do Porto!
+## Boas-vindas!
 - ⚛️ Acadêmico em Ciência da Computação
-- 👨‍💻 Aprendendo a ser Full-Stack
 
   <div>
 <div style="display: inline_block"><br>
