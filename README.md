@@ -1,5 +1,4 @@
-## Boas-vindas!
-- ⚛️ Acadêmico em Ciência da Computação
+## ⚛️ Acadêmico em Ciência da Computação
 
   <div>
 <div style="display: inline_block"><br>
